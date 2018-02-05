@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SessionFeedback</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="new_session_button">New Session</string>
+    <string name="load_session_button">Load Session</string>
+    <string name="create_session_button_text">Create Session</string>
+    <string name="email_label_text">Email</string>
+    <string name="pin_label_text">PIN</string>
+    <string name="confirm_pin_label_text">Confirm PIN</string>
+</resources>
