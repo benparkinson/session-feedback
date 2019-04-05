@@ -1,2 +1,2 @@
 # session-feedback
-Session Feedback Android App
+Android App, not yet implemented
